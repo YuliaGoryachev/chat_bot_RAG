@@ -1,2 +1,0 @@
-[run]
-omit = ./rag_api/main.py,*/__init__.py
